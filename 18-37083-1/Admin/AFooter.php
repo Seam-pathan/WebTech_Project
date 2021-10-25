@@ -1,0 +1,1 @@
+<p>If you find any difficulties, you can contact us at (0156488456) and also our Facebook page <?php echo date('d-m-Y') ?></p
